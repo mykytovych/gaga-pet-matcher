@@ -23,4 +23,4 @@ Since this project uses Vanilla JavaScript and no build tools, running it is inc
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/gaga-pet-matcher.git](https://github.com/YOUR_USERNAME/gaga-pet-matcher.git)
+   git clone [https://github.com/mykytovych/gaga-pet-matcher.git](https://github.com/mykytovych/gaga-pet-matcher.git)
