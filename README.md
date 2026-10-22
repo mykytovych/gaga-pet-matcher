@@ -3,6 +3,9 @@
 
 GagaPet Matcher is a lightweight web application built purely for laugh. It randomly generates a picture of a dog or a cat and pairs it with a random Lady Gaga song, complete with the album cover and a 30-second audio preview.
 
+## Live Demo
+Check out the working project here: **[Gaga Pet Matcher Live](https://mykytovych.github.io/gaga-pet-matcher/)**
+
 ## Features
 - Randomly fetches either a cat or a dog to match your unpredictable mood.
 - Pulls a random Lady Gaga track using the iTunes Search API.
